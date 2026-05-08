@@ -1,4 +1,4 @@
-# 🧠 Vibecode Editor – AI-Powered Web IDE
+# 🧠 Vitecode Editor – AI-Powered Web IDE
 
 ![Vibecode Editor Thumbnail](public/vibe-code-editor-thumbnaail.svg)
 
